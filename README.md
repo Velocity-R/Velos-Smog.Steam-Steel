@@ -1,6 +1,6 @@
 Modrinth link: https://modrinth.com/modpack/velos-smog-steel
 
-**Note:** The modpack download is on Modrinth, **_this is only an issue tracker_**
+**Note:** The modpack download is on Modrinth, **_this is only an issue tracker_**.
 
 ## What is this?
 **Smog & Steel** is an immersive steampunk experience designed to satisfy your insatiable need to build, automate, and serve the factory. Harness complex machinery (with Create), take to the skies, and expand your enterprise far beyond the horizons.
