@@ -1,5 +1,5 @@
-Modrinth link (Smog & Steel): https://modrinth.com/modpack/velos-smog-steel
-Modrinth link (Steam & Steel): 
+- Modrinth link (Smog & Steel): https://modrinth.com/modpack/velos-smog-steel
+- Modrinth link (Steam & Steel): https://modrinth.com/modpack/velos-steam-steel
 
 **Note:** The modpack(s) download is on Modrinth, **_this is only an issue tracker_**.
 
